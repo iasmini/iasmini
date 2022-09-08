@@ -81,7 +81,7 @@
 <br />
 <br />
 
-**Estatísticas:**
+**Stats:**
 
 | <a href="https://github.com/iasmini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iasmini&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Iasmini's github stats" /></a> | <a href="https://github.com/iasmini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmini&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -95,3 +95,6 @@
 
 <br />
 <br />
+
+⭐️ Inspired by:
+- [Breno Rodrigues](https://github.com/Breno3B)
